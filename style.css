@@ -1,0 +1,42 @@
+h1{
+    color: aqua;
+}
+p{
+    color: rgb(12, 8, 1) ;
+}
+
+h2{
+    color: #1460aa;
+}
+
+body{
+    background: #fbfffa;
+}
+
+.hotpink-header{
+    color:hotpink;
+}
+
+#top{
+    background: rgb(71, 255, 86);
+}
+
+nav a {
+    color: darkolivegreen;
+}
+
+a {
+    color: darkorange;
+}
+
+.tsunami-header{
+    color: seagreen;
+}
+
+.nauka-h1{
+    background-color: silver;
+}
+
+#text-tomato {
+    color: gold;
+}

@@ -48,3 +48,11 @@ a {
 .monster-header{
     background-color: crimson;
 }
+
+.box{
+    padding: 100px;
+    border: 10px aqua solid;
+    border-radius: 50%;
+    overflow: auto;
+    margin: auto;
+}
